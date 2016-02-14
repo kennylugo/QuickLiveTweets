@@ -1,2 +1,2 @@
 
-#Fast Tweeting
+#Quick Tweeting
